@@ -53,3 +53,66 @@ project/
 * Conditional Logic
 
 ---
+
+## 📘 Emoji Guide (For Beginners)
+
+This project uses emojis to make the README more readable and visually appealing.
+
+### 🚀 Common Emojis Used
+
+| Emoji | Meaning               |
+| ----- | --------------------- |
+| 🚀    | Project / Launch      |
+| 🔥    | Important / Highlight |
+| 📌    | Features              |
+| 🛠️   | Tools / Technologies  |
+| 🎯    | Goal / Objective      |
+| ⭐     | Star the repository   |
+
+---
+
+### 💻 Development Related
+
+| Emoji | Meaning              |
+| ----- | -------------------- |
+| 💻    | Coding / Development |
+| 🧑‍💻 | Developer            |
+| ⚙️    | Backend / Logic      |
+| 📦    | Package / Data       |
+
+---
+
+### 🎨 UI & Design
+
+| Emoji | Meaning         |
+| ----- | --------------- |
+| 🎨    | Design / UI     |
+| ✨     | New Feature     |
+| 🌈    | Color / Styling |
+
+---
+
+### ⚡ Actions & Status
+
+| Emoji | Meaning          |
+| ----- | ---------------- |
+| ▶️    | Start            |
+| ⏹️    | Stop             |
+| 🔄    | Update / Refresh |
+| ✅     | Success          |
+| ❌     | Error            |
+
+---
+
+### 📂 Project Structure
+
+| Emoji | Meaning     |
+| ----- | ----------- |
+| 📂    | Folder      |
+| 📁    | Files       |
+| 📊    | Data        |
+| 📋    | Information |
+
+---
+
+💡 **Tip:** Emojis are used only to improve readability. Avoid overusing them.
