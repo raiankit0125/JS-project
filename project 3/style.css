@@ -1,0 +1,77 @@
+/* Body */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #36d1dc, #5b86e5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Container */
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  text-align: center;
+  width: 350px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+}
+
+/* Title */
+h1 {
+  margin-bottom: 10px;
+}
+
+/* Input */
+input {
+  padding: 10px;
+  width: 70%;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  outline: none;
+}
+
+/* Button */
+button {
+  padding: 10px 15px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 8px;
+  background: #5b86e5;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #36d1dc;
+  transform: scale(1.05);
+}
+
+/* Result Section */
+.resultParas {
+  margin-top: 20px;
+}
+
+/* Messages */
+.lowOrHi h2 {
+  color: #333;
+  margin-top: 10px;
+}
+
+/* New Game Button Style */
+.button {
+  margin-top: 20px;
+  background: #ff4b2b;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background: #ff0000;
+}

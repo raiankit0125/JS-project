@@ -1,0 +1,65 @@
+/* Body */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  transition: background-color 0.5s ease;
+  background: #222;
+  color: white;
+}
+
+/* Container */
+.container {
+  text-align: center;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 40px;
+  border-radius: 15px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+/* Heading */
+h1 {
+  margin-bottom: 10px;
+}
+
+/* Buttons */
+.buttons {
+  margin-top: 20px;
+}
+
+button {
+  padding: 12px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* Start Button */
+#start {
+  background: #00c853;
+  color: white;
+}
+
+#start:hover {
+  background: #00e676;
+  transform: scale(1.1);
+}
+
+/* Stop Button */
+#stop {
+  background: #d50000;
+  color: white;
+}
+
+#stop:hover {
+  background: #ff1744;
+  transform: scale(1.1);
+}
